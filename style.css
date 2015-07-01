@@ -1,8 +1,19 @@
 * {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; }
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+body {
+  width:  350px;
+  margin: auto;
+}
 
 h1 {
   text-transform: uppercase;
+}
+
+ul {
+  padding: 0;
 }
 
 li {

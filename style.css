@@ -3,6 +3,17 @@
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+html {
+  border-top: 10px solid black;
+}
+
 body {
   width:  350px;
   margin: auto;

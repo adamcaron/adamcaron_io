@@ -13,11 +13,14 @@ a:hover {
 
 html {
   border-top: 10px solid black;
+  background: url("plaid.jpg") repeat;
 }
 
 body {
-  width:  350px;
-  margin: auto;
+  background-color: white;
+  position: absolute;
+  width: 100%;
+  padding: 25px 0px;
 }
 
 h1 {
